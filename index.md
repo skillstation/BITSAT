@@ -72,32 +72,44 @@
 
 **MATHEMATICS**
 
-| 1 |  Complex Number |
+| 1 |  [Complex Number](https://drive.google.com/file/d/1TCaHkjHwxc4T17nKqbojLk28ACjylweO/view?usp=drive_link) |
 | ----: | :---- |
-| 2 |  Quadratic Equation |
-| 3 |  Sequences and Series |
-| 4 |  Exponential and Logarithmic Series |
-| 5 |  Permutations and Combinations |
-| 6 |  Binomial Theorem and Mathematical Induction |
-| 7 |  Matrices |
-| 8 |  Determinant |
-| 9 |  Sets, Relations and Functions |
-| 10 |  Linear Inequality |
-| 11 |  Trigonometry |
-| 12 |  Rectangular Coordinates and Straight Line |
-| 13 |  The Circle |
-| 14 |  Conic Sections |
-| 15 |  Three Dimensional Geometry |
-| 16 |  Limits, Continuity and Differentiability |
-| 17 |  Differential Coefficients |
-| 18 |  Application of Derivatives |
-| 19 |  Indefinite Integral |
-| 20 |  Definite Integral and Its Applications |
-| 21 |  Differential Equations |
-| 22 |  Probability |
-| 23 |  Vector Algebra |
-| 24 |  Statistics |
-| 25 |  Linear Programming |
+| 2 |  [Quadratic Equation](https://drive.google.com/file/d/1369lZyc5e_krmAFPMuTuxSr-TRE8hRlQ/view?usp=drive_link) |
+| 3 |  [Sequences and Series](https://drive.google.com/file/d/1FJSvVpCvTbxIAOVqCWiZc7ZP7g-rCFke/view?usp=drive_link) |
+| 4 |  [Exponential and Logarithmic Series](https://drive.google.com/file/d/1ZP8gvbpIdLxbULW_-qEN3EWCOTwbH-WA/view?usp=drive_link) |
+| 5 |  [Permutations and Combinations](https://drive.google.com/file/d/1Tpg51sIzLELjWrK8cmEa4Fa78PO_yvjs/view?usp=drive_link) |
+| 6 |  [Binomial Theorem and Mathematical Induction](https://drive.google.com/file/d/113mjc4rm8qBQ6Kh50QE4Tf5V9q9xjJDw/view?usp=drive_link) |
+| 7 |  [Matrices](https://drive.google.com/file/d/13ekWXvoVLUtQxDmavnhhi-RSZ2SLyDiX/view?usp=drive_link) |
+| 8 |  [Determinant](https://drive.google.com/file/d/1SxOQIAU0trBvaV7aw6wSgNolQV2WG_xO/view?usp=drive_link) |
+| 9 |  [Sets, Relations and Functions](https://drive.google.com/file/d/1DoZfpPGATffvZLQM9dZWgrGwqbn2lLxK/view?usp=drive_link) |
+| 10 |  [Linear Inequality](https://drive.google.com/file/d/1OoPK2Ae7C9u-p13Vgqtt65in7m448DUD/view?usp=drive_link) |
+| 11 |  [Trigonometry](https://drive.google.com/file/d/1NVWSLGFqm_sgHBV9spbEa5Z8_JTkHoca/view?usp=drive_link) |
+| 12 |  [Rectangular Coordinates and Straight Line](https://drive.google.com/file/d/11fYo-Z1v_pIxox4Zn-I1Jz1HZvEIA0mQ/view?usp=drive_link) |
+| 13 |  [The Circle](https://drive.google.com/file/d/1tlYlOhaanns6RnRfJlAL_wNOXn6iehLc/view?usp=drive_link) |
+| 14 |  [Conic Sections](https://drive.google.com/file/d/1BgaVwQV35SnuwzpsBrN61SB85ILF0b1x/view?usp=drive_link) |
+| 15 |  [Three Dimensional Geometry](https://drive.google.com/file/d/184z-IwXkMuhEWIP9tszBL9XEl0Z8o0Yv/view?usp=drive_link) |
+| 16 |  [Limits, Continuity and Differentiability](https://drive.google.com/file/d/1LeuXxXq0LFbTMAWsod9YhVuEsIrSxF0A/view?usp=drive_link) |
+| 17 |  [Differential Coefficients](https://drive.google.com/file/d/1a8j7MXRSppsTr7ibesLLRHkT6BZZmlo1/view?usp=drive_link) |
+| 18 |  [Application of Derivatives](https://drive.google.com/file/d/1F197WRamDBwX37UZZk5solwu5gfJJO3-/view?usp=drive_link) |
+| 19 |  [Indefinite Integral](https://drive.google.com/file/d/1_BaDo35sThGYm5bzJ-rs62rb0jAclKd4/view?usp=drive_link) |
+| 20 |  [Definite Integral and Its Applications](https://drive.google.com/file/d/1Ry4Axmn3VXFHJbsoNhf0nEcnz8Ld2NkS/view?usp=drive_link) |
+| 21 |  [Differential Equations](https://drive.google.com/file/d/1DVyHG8fGaEGy3FztwLv19HIJ5G4U_hZy/view?usp=drive_link) |
+| 22 |  [Probability](https://drive.google.com/file/d/18KiFiWx0J5Xfx4ELPyNQeO5L9NOy6kzU/view?usp=drive_link) |
+| 23 |  [Vector Algebra](https://drive.google.com/file/d/1yD-hQL3P5b5DrRvM-tbcpiNpV-b8ZdS3/view?usp=drive_link) |
+| 24 |  [Statistics](https://drive.google.com/file/d/1shtKRBVGS8QMqeRWjrwlfEciyETDgs23/view?usp=drive_link) |
+| 25 |  [Linear Programming](https://drive.google.com/file/d/1iaQrG3vI1aC_cC_y2QrqcMM5sCYPf4AZ/view?usp=drive_link) |
 
  
+
+ENGLISH PROFICIENCY 
+
+LOGICAL REASONING 
+
+PRACTISE SET ( 01, 02, 03, 04, 05 )
+
+BITSAT 2017 • SOLUTION
+
+BITSAT 2018 • SOLUTION
+
+BITSAT 2019 • SOLUTION
 
