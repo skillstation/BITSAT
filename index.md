@@ -37,38 +37,38 @@
 
 **CHEMISTRY**
 
-| 1 |  Some Basic Concepts of Chemistry |
+| 1 |  [Some Basic Concepts of Chemistry](https://drive.google.com/file/d/12djn4jSbSQfzB0yuCWqXPcCzakwsut5a/view?usp=drive_link) |
 | ----: | :---- |
-| 2 |  Atomic Structure |
-| 3 |  Nuclear Chemistry |
-| 4 |  Chemical Bonding |
-| 5 |  Periodic Properties |
-| 6 |  States of Matter |
-| 7 |  Chemical Thermodynamics |
-| 8 |  Chemical and lonic Equilibria |
-| 9 |  Chemical Kinetics |
-| 10 |  Solution |
-| 11 |  Adsorption and Colloidal System |
-| 12 |  Redox Reactions |
-| 13 |  Electro-chemistry |
-| 14 |  Hydrogen |
-| 15 |  s-Block Elements |
-| 16 |  Metallurgy |
-| 17 |  p-Block Elements \- I (Group 13 & 14\) |
-| 18 |  p-Block Elements \- II |
-| 19 |  d \- and f-Block Elements |
-| 20 |  Coordination Compounds and Organometallics |
-| 21 |  General Organic Chemistry |
-| 22 |  Purification and Estimation of Organic Compounds |
-| 23 |  Hydrocarbons |
-| 24 |  Halogen Derivatives of Hydrocarbons |
-| 25 |  Alcohol, Phenol and Ether |
-| 26 |  Aldehyde and Ketones |
-| 27 |  Carboxylic Acid and Its Derivatives |
-| 28 |  Nitrogen Containing Compounds |
-| 29 |  Polymers, Biomolecules and Chemistry in Action |
-| 30 |  Qualitative Analysis |
-| 31 |  Stereochemistry |
+| 2 |  [Atomic Structure](https://drive.google.com/file/d/1v6DO69zA0e1OQFgoddKpBjMus13SinYN/view?usp=drive_link) |
+| 3 |  [Nuclear Chemistry](https://drive.google.com/file/d/1G2Ahda-BekVhWdclFw6WiLUibDlCJ7as/view?usp=drive_link) |
+| 4 |  [Chemical Bonding](https://drive.google.com/file/d/1xMWTJ29rsvckU1f5yjbATsWLZd7h2Ez2/view?usp=drive_link) |
+| 5 |  [Periodic Properties](https://drive.google.com/file/d/16SQX9wQA6vsFkYaTtnb3HFo8OlPofuG_/view?usp=drive_link) |
+| 6 |  [States of Matter](https://drive.google.com/file/d/1tGh4x8O75J3nDhVlKwbNhZA189qQBspF/view?usp=drive_link) |
+| 7 |  [Chemical Thermodynamics](https://drive.google.com/file/d/1w8V_wKYgHziV0WFXr3QlE2SJcgsSre5W/view?usp=drive_link) |
+| 8 |  [Chemical and lonic Equilibria](https://drive.google.com/file/d/1vOdi3X-dtpoYglpITe3Hr_th-W0rJNw4/view?usp=drive_link) |
+| 9 |  [Chemical Kinetics](https://drive.google.com/file/d/1TaF6icvDirYO8wQjBq4AZO2bJx1nFgXY/view?usp=drive_link) |
+| 10 |  [Solution](https://drive.google.com/file/d/1TEG9CJbrB2e0RM2B1mxaUCtnrAg7F7Qn/view?usp=drive_link) |
+| 11 |  [Adsorption and Colloidal System](https://drive.google.com/file/d/1VjHFfDkeaNhp19mB0S9WVruNrxNcNNBy/view?usp=drive_link) |
+| 12 |  [Redox Reactions](https://drive.google.com/file/d/1pXqsKyb2dyi1C2myGpC2QyQQmVqVGtO2/view?usp=drive_link) |
+| 13 |  [Electro-chemistry](https://drive.google.com/file/d/1feqcaTkPXU8gaasucwtXHu2kXM_vTiNF/view?usp=drive_link) |
+| 14 |  [Hydrogen](https://drive.google.com/file/d/1SV8H8fu4uStDlhvkJoeoxyvdZ35ICfrs/view?usp=drive_link) |
+| 15 |  [s-Block Elements](https://drive.google.com/file/d/1iLbLpBh4R1xSJp4kQyS9DHT2BtPab02O/view?usp=drive_link) |
+| 16 |  [Metallurgy](https://drive.google.com/file/d/1ZTXC6Ny9a6tA-0JYWHHAIAY6lakuw8tT/view?usp=drive_link) |
+| 17 |  [p-Block Elements \- I (Group 13 & 14\)](https://drive.google.com/file/d/1PFW6-w9w0tOH95tDvDSgtzitHHfP2DKE/view?usp=drive_link) |
+| 18 |  [p-Block Elements \- II](https://drive.google.com/file/d/1GipzShPK9xppuCnkxRtwY81ymq2er9w0/view?usp=drive_link) |
+| 19 |  [d \- and f-Block Elements](https://drive.google.com/file/d/1xvRfb-XS6QF3yAdWnyB8MkXm0fqKdB1W/view?usp=drive_link) |
+| 20 |  [Coordination Compounds and Organometallics](https://drive.google.com/file/d/1EVanXlBYSY6U3girQVKT2eAXE5U9K8_f/view?usp=drive_link) |
+| 21 |  [General Organic Chemistry](https://drive.google.com/file/d/12VChC4Hk0gJn6JsvYDa1b8tQkq5dnrxz/view?usp=drive_link) |
+| 22 |  [Purification and Estimation of Organic Compounds](https://drive.google.com/file/d/1z-1M-pT3gLaZ8s4Vt3OTL8GyXPkJAVTo/view?usp=drive_link) |
+| 23 |  [Hydrocarbons](https://drive.google.com/file/d/1p887irVb7vAKXEmr5eT-QBd93i9ppMdC/view?usp=drive_link) |
+| 24 |  [Halogen Derivatives of Hydrocarbons](https://drive.google.com/file/d/1mLfN3qBTGpIQ7AcnNNe5sPtKGFEH4Xjh/view?usp=drive_link) |
+| 25 |  [Alcohol, Phenol and Ether](https://drive.google.com/file/d/1MPa-4e-qeLDI5k4GC2Hk_Wcog2_evBbD/view?usp=drive_link) |
+| 26 |  [Aldehyde and Ketones](https://drive.google.com/file/d/1FXJhdL7Heg607pEgdeSNWe9mLmYTwLS6/view?usp=drive_link) |
+| 27 |  [Carboxylic Acid and Its Derivatives](https://drive.google.com/file/d/1nRg4UuWYEU8FSb1FuHuEBv5Bg6WDtgm8/view?usp=drive_link) |
+| 28 |  [Nitrogen Containing Compounds](https://drive.google.com/file/d/1O_N6Tl8YcSpoXpgzGregqMoJuxEbFcH5/view?usp=drive_link) |
+| 29 |  [Polymers, Biomolecules and Chemistry in Action](https://drive.google.com/file/d/1zpmgETvXYoYIvt4IDFbh-KVsKrVRDZlB/view?usp=drive_link) |
+| 30 |  [Qualitative Analysis](https://drive.google.com/file/d/1Pz4ZByHoRGuE8kEWMZxUJqeVo3zaLCYk/view?usp=drive_link) |
+| 31 |  [Stereochemistry](https://drive.google.com/file/d/1D4-KBtc5PdB1yN2z3UP1fC_IOP9MSi95/view?usp=drive_link) |
 
 **MATHEMATICS**
 
